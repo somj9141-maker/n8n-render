@@ -1,6 +1,6 @@
 FROM n8nio/n8n:latest
 
-# ตั้งค่า working directory
+# ตั้ง working directory
 WORKDIR /data
 
 # expose port ที่ n8n ใช้
